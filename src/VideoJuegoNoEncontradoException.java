@@ -1,3 +1,4 @@
+//Creacion de una Excepcion personalizada
 public class VideoJuegoNoEncontradoException extends Exception{
 
     public VideoJuegoNoEncontradoException() {
